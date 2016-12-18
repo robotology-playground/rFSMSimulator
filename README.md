@@ -23,6 +23,10 @@ $ cd rFSMSimulator
 $ ./rfsmsim.sh
 ```
 
+Notice:
+-------
+* librFSM (c++ library) has been moved to https://github.com/robotology/librFSM
+
 Contributors
 -------------
 * [*Nicolò Genesio*](https://github.com/Nicogene)
